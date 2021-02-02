@@ -1,8 +1,7 @@
 name: fijkplayer_skin
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: flutter the skin
+version: 1.0.0
+homepage: https://github.com/abcd498936590/fijkplayer_skin
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
