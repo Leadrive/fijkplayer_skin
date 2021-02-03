@@ -12,6 +12,15 @@ fijkplayer_skin只是一款皮肤，并不是播放器，所以 fijkplayer 存�
 ## 预览
 <img style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/fijkplayer_skin-1.png" />
 
+## Dart-Cms-Manage（后台）
+
+[后台管理系统部分(使用vue全家桶)](https://github.com/abcd498936590/Dart-Cms-Manage)
+
+## Dart-Cms-Flutter（安卓）
+
+[安卓APP使用google flutter技术开发](https://github.com/abcd498936590/Dart-Cms-Flutter)
+
+
 ## 安装
 pubspec.yaml
 ```yaml
