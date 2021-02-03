@@ -12,9 +12,9 @@ fijkplayer_skin只是一款皮肤，并不是播放器，所以 fijkplayer 存�
 ## 预览
 <img style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/fijkplayer_skin-1.png" />
 
-## Dart-Cms-Manage（后台）
+## Dart-Cms（web电影系统）
 
-[后台管理系统部分(使用vue全家桶)](https://github.com/abcd498936590/Dart-Cms-Manage)
+[nodejs + mongodb 开发一套电影管理系统](https://github.com/abcd498936590/Dart-Cms)
 
 ## Dart-Cms-Flutter（安卓）
 
